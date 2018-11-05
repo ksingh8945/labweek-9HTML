@@ -1,0 +1,12 @@
+
+ .green h1{
+     color:red;
+     font-size: 30px;
+     text-align: center
+ }
+ p{
+     color: blue;
+ }
+ p.large-text{
+     font-size: 30px;
+ }
